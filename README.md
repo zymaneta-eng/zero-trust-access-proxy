@@ -306,7 +306,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ![довідка CLI](screenshots/04_cli_1.png)
 
-Усі скріншоти (4): [screenshots/](screenshots/README.md)
+Усі скріншоти (5): [screenshots/](screenshots/README.md)
 
 
 ---
